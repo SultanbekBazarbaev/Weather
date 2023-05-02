@@ -1,0 +1,61 @@
+body{
+    background: url(Weather\ HD\ Wallpapers\ HD\ Wallpapers\ 360.jpg) no-repeat;
+    background-size: 100%;
+    /* background-position: 10% 0%; */
+    
+}
+.container{
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 1100px;
+}
+.header{
+    
+    text-align: center;
+    font-family: sans-serif;
+}
+.input-word{
+    text-align: center;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+.input-text{
+    margin-left:40.9% ;
+    padding: 5px 15px;
+    border: none;
+    box-shadow: 2px 10px 10px 7px rgba(60, 125, 175, 0.2);
+}
+.list{
+    background-color: white;
+    margin: 100px auto 0 auto;
+    width: 380px;
+}
+.list-flex{
+    padding:5px 10px 15px 10px;
+    text-align: center;
+}
+
+.list-head{
+    text-align: center;
+    padding-right: 5px;     
+    font-family: 'Bruno Ace SC', cursive;
+    font-size: 25px;
+}
+.list-count{
+    font-family: 'Bruno Ace SC', cursive;
+    font-size: 22px;
+}
+.list-main{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 22px
+}
+.tempo{
+    padding: 20px 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.tempo span{
+    font-size: 25px;
+}
